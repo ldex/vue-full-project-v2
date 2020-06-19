@@ -1,24 +1,13 @@
-# vue-full-project
+# Vue Demo App
+
+Demo Project part of <a href="https://vue.ac" target="_blank">Vue Academy Workshop</a>.
 
 ## Project setup
-```
-npm install
-```
 
-### Compiles and hot-reloads for development
-```
-npm run serve
-```
+You need to restore the npm dependencies first:  
+Run `npm install`
 
-### Compiles and minifies for production
-```
-npm run build
-```
+## Try it!
 
-### Lints and fixes files
-```
-npm run lint
-```
-
-### Customize configuration
-See [Configuration Reference](https://cli.vuejs.org/config/).
+Run `npm run serve` for a dev server (or use vue ui).  
+The app is running on `http://localhost:8080/` and will automatically reload if you change any of the source files.
